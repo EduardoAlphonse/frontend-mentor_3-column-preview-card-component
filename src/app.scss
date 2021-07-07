@@ -1,0 +1,24 @@
+#app {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	min-height: 100vh;
+
+	.cards {
+		display: flex;
+		border-radius: 8px;
+		overflow: hidden;
+	}
+
+}
+
+@media (max-width: 375px) {
+	#app {
+		padding: 88px 24px;
+
+		.cards {
+			flex-direction: column;
+		}
+	}
+}
