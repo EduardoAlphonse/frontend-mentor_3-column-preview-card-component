@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/frontend-mentor_3-column-preview-card-component/static/css/main.006e7e3f.chunk.css",
+    "main.css": "/frontend-mentor_3-column-preview-card-component/static/css/main.106d0efd.chunk.css",
     "main.js": "/frontend-mentor_3-column-preview-card-component/static/js/main.c61a46be.chunk.js",
     "main.js.map": "/frontend-mentor_3-column-preview-card-component/static/js/main.c61a46be.chunk.js.map",
     "runtime-main.js": "/frontend-mentor_3-column-preview-card-component/static/js/runtime-main.78550fb8.js",
@@ -8,7 +8,7 @@
     "static/js/2.7c34d823.chunk.js": "/frontend-mentor_3-column-preview-card-component/static/js/2.7c34d823.chunk.js",
     "static/js/2.7c34d823.chunk.js.map": "/frontend-mentor_3-column-preview-card-component/static/js/2.7c34d823.chunk.js.map",
     "index.html": "/frontend-mentor_3-column-preview-card-component/index.html",
-    "static/css/main.006e7e3f.chunk.css.map": "/frontend-mentor_3-column-preview-card-component/static/css/main.006e7e3f.chunk.css.map",
+    "static/css/main.106d0efd.chunk.css.map": "/frontend-mentor_3-column-preview-card-component/static/css/main.106d0efd.chunk.css.map",
     "static/js/2.7c34d823.chunk.js.LICENSE.txt": "/frontend-mentor_3-column-preview-card-component/static/js/2.7c34d823.chunk.js.LICENSE.txt",
     "static/media/icon-luxury.7d6e1aef.svg": "/frontend-mentor_3-column-preview-card-component/static/media/icon-luxury.7d6e1aef.svg",
     "static/media/icon-sedans.e7945028.svg": "/frontend-mentor_3-column-preview-card-component/static/media/icon-sedans.e7945028.svg",
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.78550fb8.js",
     "static/js/2.7c34d823.chunk.js",
-    "static/css/main.006e7e3f.chunk.css",
+    "static/css/main.106d0efd.chunk.css",
     "static/js/main.c61a46be.chunk.js"
   ]
 }
