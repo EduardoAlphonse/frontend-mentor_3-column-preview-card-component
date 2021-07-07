@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot/screenshot_1.jpg)
+![](https://github.com/EduardoAlphonse/frontend-mentor_3-column-preview-card-component/blob/main/screenshot/screenshot_1.png?raw=true)
 
 ### Links
 
